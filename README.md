@@ -1,7 +1,7 @@
 ## Aktheruzzaman opu
 #### Web Developer
 
-![Web Developer](https://drive.google.com/file/d/1k_pkWLvIepOr0RBUydK2-K8frhhzkbx0/view?usp=sharing)
+![Web Developer](https://i.ibb.co/sg2kT6s/tetst.png)
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 50+ websites for my class project. I pride myself on doing quality work and maintain excellent communication.
 
