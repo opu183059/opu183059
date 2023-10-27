@@ -7,7 +7,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 
 ### Skills:
-- HTML + CSS + Bootstrap + Tailwind Css  
+- HTML + CSS + Bootstrap + Tailwind Css + Ant Design
 - JavaScript 
 - React JS 
 - Node JS 
